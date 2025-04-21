@@ -17,4 +17,4 @@ This is a high level overview of our goals and values. Specific technical decisi
    clear, and as specific as possible. Poorly explained errors are anathema. Unclear or nonexistent documentation is anathema. A user interface that is not self explanatory is anathema.
 
 4. **Always prioritize the end-user experience.** If a trade-off exists between ease of development and the end-user experience, we will always choose the joy of the user over the joy
-   of the developer. We seek to build the a comprehensive and feature complete software. As developers, we will not compromise this even if it makes our lives harder.
+   of the developer. We seek to build a comprehensive and feature complete software. As developers, we will not compromise this even if it makes our lives harder.

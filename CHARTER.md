@@ -6,7 +6,7 @@ This is a high level overview of our goals and values. Specific technical decisi
 
 1. **A rising tide lifts all boats.** It is our belief that excellent secure instant messaging, multimedia calls, screen sharing, file sharing, and community management should be universal capabilities.
    These technologies should not be bound to a for-profit company, should not be provided by proprietary software, and should be trivially available to anyone who has a need for them.
-2. **Universal Access is essential.** Anyone who wants to be to use our software should be able to do so. We will provide the best possible user experience to all humans, regardless of
+2. **Universal Access is essential.** Anyone who wants to use our software should be able to do so. We will provide the best possible user experience to all humans, regardless of
    disability or language.
 
    2.a. We do not, and indeed cannot, control who uses our software and what purpose they use it for. We build this software the benefit of all, and this
